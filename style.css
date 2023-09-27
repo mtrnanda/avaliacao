@@ -1,0 +1,46 @@
+body{
+    background-color:pink
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-variant: normal;
+    margin-top: 125px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    margin: 50px;
+    margin-left: 790px;
+    margin-top: 200px;
+}
+
+
+.jogo_dcabecalho{
+    width: 170px;
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 120px;
+
+}
+.cabecalho_dcabecalho{
+    background-color:bisque;
+}
+.lista_cabecalho{
+    display:flex;
+    margin-left: 950px;
+}
+.item_lista_cabecalho{
+    color:purple;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 15px;
+}
