@@ -15,32 +15,32 @@ p{
 }
 
 img{
-    width: 350px;
-    height: 350px;
-    margin: 50px;
-    margin-left: 790px;
+    width: 300px;
+    height: 300px;
+    margin: 60px;
+    margin-left: 200px;
     margin-top: 200px;
 }
 
 
-.jogo_dcabecalho{
+.logo_dcabecalho{
     width: 170px;
     margin-left: 50px;
     margin-top: 30px;
     height: 120px;
 
 }
-.cabecalho_dcabecalho{
+.cabecalho{
     background-color:bisque;
 }
 .lista_cabecalho{
     display:flex;
-    margin-left: 950px;
 }
 .item_lista_cabecalho{
     color:purple;
     list-style: none;
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 25px;
     padding: 15px;
-}
+    margin-left: 110px;
+    margin-top: 10px; ;}
