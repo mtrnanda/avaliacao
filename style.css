@@ -37,7 +37,7 @@ img{
     display:flex;
 }
 .item_lista_cabecalho{
-    color:purple;
+    color:rgb(214, 227, 255);
     list-style: none;
     text-transform: uppercase;
     font-size: 25px;
