@@ -31,13 +31,13 @@ img{
 
 }
 .cabecalho{
-    background-color:beige;
+    background-color:rgb(220, 241, 245);
 }
 .lista_cabecalho{
     display:flex;
 }
 .item_lista_cabecalho{
-    color:rgb(214, 227, 255);
+    color:rgb(0, 0, 0);
     list-style: none;
     text-transform: uppercase;
     font-size: 25px;
